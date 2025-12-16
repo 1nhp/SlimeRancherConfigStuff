@@ -1,0 +1,2 @@
+C:\Users\User\source\repos\srfpslimiter\obj\Release\srfpslimiter.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\srfpslimiter\obj\Release\srfpslimiter.csproj.CoreCompileInputs.cache

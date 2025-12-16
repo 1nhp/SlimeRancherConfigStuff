@@ -1,0 +1,124 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\srfpslimiter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26F832B2-EAC8-4F0E-A23A-B22B385AAFB8}|srfpslimiter.csproj|c:\\users\\user\\source\\repos\\srfpslimiter\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26F832B2-EAC8-4F0E-A23A-B22B385AAFB8}|srfpslimiter.csproj|solutionrelative:main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26F832B2-EAC8-4F0E-A23A-B22B385AAFB8}|srfpslimiter.csproj|c:\\users\\user\\source\\repos\\srfpslimiter\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26F832B2-EAC8-4F0E-A23A-B22B385AAFB8}|srfpslimiter.csproj|solutionrelative:config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26F832B2-EAC8-4F0E-A23A-B22B385AAFB8}|srconfigstuff.csproj|c:\\users\\user\\source\\repos\\srfpslimiter\\modinfo.json||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{26F832B2-EAC8-4F0E-A23A-B22B385AAFB8}|srconfigstuff.csproj|solutionrelative:modinfo.json||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26F832B2-EAC8-4F0E-A23A-B22B385AAFB8}|srfpslimiter.csproj|c:\\users\\user\\source\\repos\\srfpslimiter\\fpscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26F832B2-EAC8-4F0E-A23A-B22B385AAFB8}|srfpslimiter.csproj|solutionrelative:fpscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26F832B2-EAC8-4F0E-A23A-B22B385AAFB8}|srfpslimiter.csproj|c:\\users\\user\\source\\repos\\srfpslimiter\\renderdistancecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26F832B2-EAC8-4F0E-A23A-B22B385AAFB8}|srfpslimiter.csproj|solutionrelative:renderdistancecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|srconfigstuff||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26F832B2-EAC8-4F0E-A23A-B22B385AAFB8}|srconfigstuff.csproj|c:\\users\\user\\source\\repos\\srfpslimiter\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|1e78f8db-6c07-4d61-a18f-7514010abd56"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\srfpslimiter\\Main.cs",
+              "RelativeDocumentMoniker": "Main.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\srfpslimiter\\Main.cs",
+              "RelativeToolTip": "Main.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T12:57:48.009Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "modinfo.json",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\srfpslimiter\\modinfo.json",
+              "RelativeDocumentMoniker": "modinfo.json",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\srfpslimiter\\modinfo.json",
+              "RelativeToolTip": "modinfo.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-16T17:50:29.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "srconfigstuff",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\srfpslimiter\\srconfigstuff.csproj",
+              "RelativeDocumentMoniker": "srconfigstuff.csproj",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\srfpslimiter\\srconfigstuff.csproj",
+              "RelativeToolTip": "srconfigstuff.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-16T17:49:58.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RenderDistanceCommand.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\srfpslimiter\\RenderDistanceCommand.cs",
+              "RelativeDocumentMoniker": "RenderDistanceCommand.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\srfpslimiter\\RenderDistanceCommand.cs",
+              "RelativeToolTip": "RenderDistanceCommand.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAtwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T17:45:26.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Config.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\srfpslimiter\\Config.cs",
+              "RelativeDocumentMoniker": "Config.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\srfpslimiter\\Config.cs",
+              "RelativeToolTip": "Config.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T14:40:21.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FpsCommand.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\srfpslimiter\\FpsCommand.cs",
+              "RelativeDocumentMoniker": "FpsCommand.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\srfpslimiter\\FpsCommand.cs",
+              "RelativeToolTip": "FpsCommand.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAtwAQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T14:21:18.803Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
