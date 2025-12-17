@@ -1,8 +1,8 @@
 ﻿using SRML;
 using SRML.Console;
-using SRML.Utils.Enum;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using static srConfigStuff.renderdistanceCommand;
 
 namespace srConfigStuff
 {
@@ -11,25 +11,27 @@ namespace srConfigStuff
         public override void PreLoad()
         {
             HarmonyInstance.PatchAll();
-            SRML.Console.Console.RegisterCommand(new FpsCommand());
-            SRML.Console.Console.RegisterCommand(new RenderDistanceCommand());
+            Console.RegisterCommand(new renderdistanceCommand());
+            Console.RegisterCommand(new FpsCommand());
+            Console.RegisterCommand(new LightingCommand());
         }
 
         public override void Load()
         {
-            QualitySettings.vSyncCount = 0;
-            Config.Apply();
-            Application.targetFrameRate = Config.FPS;
+            IniConfig.Load();
+
+            GraphicsFunctions.ApplyGraphicsSettings();
             SceneManager.sceneLoaded += OnSceneLoaded;
+        }
+
+        public override void Unload()
+        {
+            SceneManager.sceneLoaded -= OnSceneLoaded;
         }
 
         private void OnSceneLoaded(Scene scene, LoadSceneMode mode)
         {
-            if (Camera.main != null)
-                Camera.main.farClipPlane = Config.RenderDistance;
-
-            QualitySettings.vSyncCount = 0;
-            Application.targetFrameRate = Config.FPS;
+            GraphicsFunctions.ApplyGraphicsSettings();
         }
     }
 }

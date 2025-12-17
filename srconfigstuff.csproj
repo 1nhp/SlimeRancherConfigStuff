@@ -72,9 +72,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="RenderDistanceCommand.cs" />
-    <Compile Include="FpsCommand.cs" />
+    <Compile Include="CommandUtils.cs" />
+    <Compile Include="Commands.cs" />
     <Compile Include="Config.cs" />
+    <Compile Include="GraphicsFunctions.cs" />
     <Compile Include="Main.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
